@@ -1,9 +1,13 @@
 Bellabeat Case Study Analysis
 By Alla Golban
 July 3, 2025
+
 Introduction
+
 A pioneer in the fem-tech realm, Bellabeat is a women’s wellness company that has helped millions of women track their cycle, pregnancies, and live more in sync with their cycles. In period of 2016-2024 this small but very innovative company has won several awards, including The Europas award for Best Health Startup and BIG SEE Award for their products. Bellabeat has all the potential for grow thanks to the strategy and vision of its Co-founders Urska Srsen and Sandro Mur, and five products, developed by Bellabeat team – Leaf (Nature, Urban, Chakra), Spring, Airi, Time, and Ivy. 
+
 Scenario: Data Analytics team has been asked to analyze smart device data to understand how consumers use their smart devices. The insights discovered will then help guide the marketing strategy for the company. 
+
 Business Task:
 •	Reveal opportunities to improve Bellabeat’s products.
 •	Guide data-driven marketing strategies to attract new customers and retain existing ones.
@@ -15,6 +19,7 @@ Tools used in project:
 2.	MS Excel and BigQuery for cleaning, analyzing, and transforming data.
 3.	MS Excel and Tableau for visualizing data.
 4.	MS Word for creating project document.
+
 Project approach:
 •	Followed six phases of data analysis process:
  
